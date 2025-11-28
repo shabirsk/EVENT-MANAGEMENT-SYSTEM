@@ -1,1 +1,1 @@
-# EVENT-MANAGEMENT-SYSTEM
+# mega_project
